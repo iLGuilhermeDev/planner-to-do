@@ -70,7 +70,7 @@ planner-to-do/
 
 ## Sistema funcionando
 
-![Sistema funcionando](prints/to-do2.png)
+![Sistema funcionando](prints/to-do1.png)
 
 ---
 
