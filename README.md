@@ -55,7 +55,7 @@ planner-to-do/
 ├── README.md
 └── prints/
     ├── to-do.png
-    └── to-do2.png
+    └── to-do1.png
 ```
 
 ---
