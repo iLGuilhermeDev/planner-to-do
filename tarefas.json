@@ -1,0 +1,14 @@
+[
+    {
+        "descricao": "ir ao mercado",
+        "concluida": false
+    },
+    {
+        "descricao": "ir no shopping as 14",
+        "concluida": false
+    },
+    {
+        "descricao": "tirar carne do congelador",
+        "concluida": true
+    }
+]
