@@ -2,7 +2,7 @@
 
 Um sistema de lista de tarefas desenvolvido em Python para organizar atividades, melhorar produtividade e praticar lógica de programação.
 
----
+----
 
 # 📌 Sobre o Projeto
 
